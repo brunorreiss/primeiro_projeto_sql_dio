@@ -51,8 +51,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, cor
 
 ## Autor
 
-[Seu Nome]
+[Bruno Reis]
 
-## Licença
-
-Este projeto está licenciado sob a [Licença XYZ]. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
